@@ -1,6 +1,6 @@
 # Python Projects 🐍
 
-This repository contains a collection of 7 differet Python projects that cover various programming concepts, including data structures, algorithms, hashing, process scheduling, web development, image processing, and AI.
+This repository contains a collection of 7 different Python projects that cover various programming concepts, including data structures, algorithms, hashing, process scheduling, web development, image processing, and AI.
 
 ---
 
