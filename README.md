@@ -1,6 +1,6 @@
 # Python Projects 🐍
 
-This repository contains a collection of 7 different Python projects that cover various programming concepts, including data structures, algorithms, hashing, process scheduling, web development, image processing, and AI.
+This repository contains a collection of 10 different Python projects that cover various programming concepts, including data structures, algorithms, hashing, cryptography, process scheduling, web development, file handling, image processing, and AI.
 
 ---
 
@@ -40,6 +40,21 @@ This repository contains a collection of 7 different Python projects that cover 
 - Uses hashing (`MD5`) and Python dictionaries to generate and store short URLs.
 - Converts long URLs into shortened links and retrieves the original URLs efficiently.
 - Strengthens knowledge in hashing and data structures.
+
+### 📦 Inventory Management System
+- Manages product stocks, sales, and restocking with file handling.
+- Uses classes and structured data to simulate a warehouse system.
+- Reinforces concepts like file I/O, lists, and data manipulation.
+
+### 🎓 Student Database Manager
+- Allows creation, update, deletion, and retrieval of student records.
+- Uses dictionary-based data storage and command-line inputs.
+- Helps understand CRUD operations and basic data structures.
+
+### 🔐 File Encryption Tool
+- Encrypts and decrypts files using custom algorithms or built-in libraries like cryptography.
+- Works with binary and text files for secure data protection.
+- Strengthens file handling and security concepts in Python.
 
 ---
 
