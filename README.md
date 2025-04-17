@@ -1,10 +1,30 @@
 # Python Projects 🐍
 
-This repository contains a collection of 10 different Python projects that cover various programming concepts, including data structures, algorithms, hashing, cryptography, process scheduling, web development, file handling, image processing, and AI.
+This repository contains a collection of 15 different Python projects that cover various programming concepts, including data structures, algorithms, hashing, cryptography, process scheduling, web development, file handling, image processing, and AI.
 
 ---
 
 ## Projects Included
+
+### ✅ To-Do List Application  
+- Allows users to add, view, mark, and delete tasks in a simple terminal interface.  
+- Uses file handling to persist tasks across sessions.  
+- Strengthens understanding of loops, lists, and basic data management.
+
+### ❓ Quiz Game  
+- Asks users multiple-choice questions with score tracking and feedback.  
+- Randomizes questions and supports custom question banks.  
+- Reinforces logic, conditional branching, and user input handling.
+
+### 🔠 Word Counter  
+- Counts total words, characters, sentences, and paragraphs from user input or a file.  
+- Includes filters for stop words and calculates word frequency.  
+- Enhances text processing, string operations, and file reading skills.
+
+### 📇 Contact Manager  
+- Lets users store, search, update, and delete contact info like name, phone, and email.  
+- Supports persistent storage using CSV or TXT files.  
+- Builds foundational skills in data structures, validation, and file-based CRUD operations.
 
 ### 🤖 Word Scramble Game 
 - Uses `random.shuffle()` to mix word letters randomly.
