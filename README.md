@@ -6,6 +6,11 @@ This repository contains a collection of 18 different Python projects that cover
 
 ## Projects Included
 
+### 📈 CSV Data Analyzer  
+- Loads and analyzes structured data from CSV files with features like filtering, sorting, and statistical summaries.  
+- Supports numeric and text-based filters, multi-column sorting, and computation of mean, quartiles, variance, and mode.  
+- Strengthens skills in data wrangling, file parsing, and interactive CLI-driven data exploration.
+
 ### 📇 Contact Manager  
 - Lets users store, search, update, and delete contact info like name, phone, and email.  
 - Supports persistent storage using CSV or TXT files.  
@@ -30,6 +35,11 @@ This repository contains a collection of 18 different Python projects that cover
 - Manages product stocks, sales, and restocking with file handling.
 - Uses classes and structured data to simulate a warehouse system.
 - Reinforces concepts like file I/O, lists, and data manipulation.
+
+### 🔄 JSON ↔ CSV Converter  
+- Enables seamless conversion between JSON and CSV formats using simple file I/O operations.  
+- Supports structured data transformation with readable output and error-handled parsing for both formats.  
+- Reinforces understanding of data serialization, file handling, and format interoperability in Python.
 
 ### 📊 JSON Data Processor  
 - Manages student records stored in a JSON file with features to view, search, filter, update, sort, and delete.  
