@@ -6,75 +6,75 @@ This repository contains a collection of 15 different Python projects that cover
 
 ## Projects Included
 
-### ✅ To-Do List Application  
-- Allows users to add, view, mark, and delete tasks in a simple terminal interface.  
-- Uses file handling to persist tasks across sessions.  
-- Strengthens understanding of loops, lists, and basic data management.
-
-### ❓ Quiz Game  
-- Asks users multiple-choice questions with score tracking and feedback.  
-- Randomizes questions and supports custom question banks.  
-- Reinforces logic, conditional branching, and user input handling.
-
-### 🔠 Word Counter  
-- Counts total words, characters, sentences, and paragraphs from user input or a file.  
-- Includes filters for stop words and calculates word frequency.  
-- Enhances text processing, string operations, and file reading skills.
-
 ### 📇 Contact Manager  
 - Lets users store, search, update, and delete contact info like name, phone, and email.  
 - Supports persistent storage using CSV or TXT files.  
 - Builds foundational skills in data structures, validation, and file-based CRUD operations.
-
-### 🤖 Word Scramble Game 
-- Uses `random.shuffle()` to mix word letters randomly.
-- Involves string manipulation, loops, and user input handling.
-- Enhances problem-solving skills and logical thinking.
 
 ### 💾 CPU Task Scheduler
 - Implements process scheduling algorithms like FCFS, Round Robin, and Priority Scheduling.
 - Uses Object-Oriented Programming (OOP) concepts.
 - Helps understand CPU time management and execution order.
 
-### ⛅ Weather App
-- Sets up an HTTP server using Python’s built-in `http.server` module.
-- Handles frontend requests and processes city names.
-- Reinforces request handling, server-client communication, and basic networking concepts.
-
-### 🎮 Tic Tac Toe
-- Implements an unbeatable AI using the Minimax algorithm.
-- Players interact via the terminal with proper game logic.
-- Strengthens skills in recursion, decision-making, and problem-solving.
-
-### 🧩 Sudoku Solver
-- Builds a backend Sudoku solver with a pre-built web interface.
-- Uses an HTTP server for receiving puzzle inputs and returning solutions.
-- Enhances algorithmic problem-solving and backend logic.
+### 🔐 File Encryption Tool
+- Encrypts and decrypts files using custom algorithms or built-in libraries like cryptography.
+- Works with binary and text files for secure data protection.
+- Strengthens file handling and security concepts in Python.
 
 ### 🎭 Image Recognition - Number of Faces
 - Uses OpenCV’s pre-trained Haar Cascade model for face detection.
 - Processes images and converts them for analysis.
 - Reinforces concepts like image processing, feature detection, and OpenCV techniques.
 
-### 🔗 URL Shortener
-- Uses hashing (`MD5`) and Python dictionaries to generate and store short URLs.
-- Converts long URLs into shortened links and retrieves the original URLs efficiently.
-- Strengthens knowledge in hashing and data structures.
-
 ### 📦 Inventory Management System
 - Manages product stocks, sales, and restocking with file handling.
 - Uses classes and structured data to simulate a warehouse system.
 - Reinforces concepts like file I/O, lists, and data manipulation.
+  
+### ❓ Quiz Game  
+- Asks users multiple-choice questions with score tracking and feedback.  
+- Randomizes questions and supports custom question banks.  
+- Reinforces logic, conditional branching, and user input handling.
 
 ### 🎓 Student Database Manager
 - Allows creation, update, deletion, and retrieval of student records.
 - Uses dictionary-based data storage and command-line inputs.
 - Helps understand CRUD operations and basic data structures.
 
-### 🔐 File Encryption Tool
-- Encrypts and decrypts files using custom algorithms or built-in libraries like cryptography.
-- Works with binary and text files for secure data protection.
-- Strengthens file handling and security concepts in Python.
+### 🧩 Sudoku Solver
+- Builds a backend Sudoku solver with a pre-built web interface.
+- Uses an HTTP server for receiving puzzle inputs and returning solutions.
+- Enhances algorithmic problem-solving and backend logic.
+
+### 🎮 Tic Tac Toe
+- Implements an unbeatable AI using the Minimax algorithm.
+- Players interact via the terminal with proper game logic.
+- Strengthens skills in recursion, decision-making, and problem-solving.
+
+### ✅ To-Do List Application  
+- Allows users to add, view, mark, and delete tasks in a simple terminal interface.  
+- Uses file handling to persist tasks across sessions.  
+- Strengthens understanding of loops, lists, and basic data management.
+
+### 🔗 URL Shortener
+- Uses hashing (`MD5`) and Python dictionaries to generate and store short URLs.
+- Converts long URLs into shortened links and retrieves the original URLs efficiently.
+- Strengthens knowledge in hashing and data structures.
+
+### ⛅ Weather App
+- Sets up an HTTP server using Python’s built-in `http.server` module.
+- Handles frontend requests and processes city names.
+- Reinforces request handling, server-client communication, and basic networking concepts.
+
+### 🔠 Word Counter  
+- Counts total words, characters, sentences, and paragraphs from user input or a file.  
+- Includes filters for stop words and calculates word frequency.  
+- Enhances text processing, string operations, and file reading skills.
+
+### 🤖 Word Scramble Game 
+- Uses `random.shuffle()` to mix word letters randomly.
+- Involves string manipulation, loops, and user input handling.
+- Enhances problem-solving skills and logical thinking.
 
 ---
 
