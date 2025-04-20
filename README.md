@@ -1,6 +1,6 @@
 # Python Projects 🐍
 
-This repository contains a collection of 15 different Python projects that cover various programming concepts, including data structures, algorithms, hashing, cryptography, process scheduling, web development, file handling, image processing, and AI.
+This repository contains a collection of 18 different Python projects that cover various programming concepts, including data structures, algorithms, hashing, cryptography, process scheduling, web development, file handling, image processing, and AI.
 
 ---
 
@@ -30,7 +30,17 @@ This repository contains a collection of 15 different Python projects that cover
 - Manages product stocks, sales, and restocking with file handling.
 - Uses classes and structured data to simulate a warehouse system.
 - Reinforces concepts like file I/O, lists, and data manipulation.
-  
+
+### 📊 JSON Data Processor  
+- Manages student records stored in a JSON file with features to view, search, filter, update, sort, and delete.  
+- Supports partial matching, condition-based filtering, and automatic data backup on modification.  
+- Builds proficiency in JSON operations, input validation, and structured data management.
+
+### 📝 Log File Parser  
+- Generates, views, filters, and searches application log entries based on level or keyword.  
+- Stores logs persistently in a text file and displays real-time statistics like log counts and recent entries.  
+- Enhances skills in string parsing, file handling, and user-driven CLI application design.  
+
 ### ❓ Quiz Game  
 - Asks users multiple-choice questions with score tracking and feedback.  
 - Randomizes questions and supports custom question banks.  
