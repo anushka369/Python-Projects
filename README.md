@@ -1,6 +1,22 @@
 # Python Projects 🐍
 
-This repository contains a collection of 18 different Python projects that cover various programming concepts, including data structures, algorithms, hashing, cryptography, process scheduling, web development, file handling, image processing, and AI.
+This repository contains a collection of 18 different Python projects that cover various programming concepts, including:
+- **Data Structures** (lists, dictionaries, sets)
+- **Algorithms** (sorting, filtering, recursion, minimax)
+- **Hashing** (for URL shortening and lookup)
+- **Cryptography** (file encryption/decryption)
+- **Process Scheduling** (FCFS, Round Robin, etc.)
+- **Web Development** (basic HTTP servers and frontend integration)
+- **File Handling** (text, CSV, JSON, binary files)
+- **Image Processing** (OpenCV-based face detection)
+- **Artificial Intelligence** (minimax-based unbeatable AI)
+
+Additionally, this repository also introduces:
+- **Command-Line Interfaces (CLI)** – Menu-driven, interactive programs using loops and conditionals  
+- **Data Serialization & Format Interoperability** – JSON ↔ CSV conversion, data flattening, and structure mapping  
+- **Basic Statistics & Data Analysis** – Mean, median, mode, variance, and quartiles from real-world datasets  
+- **User-Driven Data Exploration** – Filtering, sorting, and conditional queries over structured datasets  
+- **Backend Logic** – Data processing behind simple frontend interfaces (e.g., Sudoku Solver, Weather App)  
 
 ---
 
